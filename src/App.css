@@ -1,0 +1,31 @@
+.prenav
+{
+    background: #000
+}
+.nav{
+/* background: url(./assets/Rectangle.png); */
+background-color: #000;
+
+}
+.mainNavbarContainer{
+    margin-left: 6rem;
+}
+.img2022{
+    margin-left:28rem;
+    padding-bottom: 7px;
+}
+.lookimg{
+    margin-left: 16rem;
+}
+.orangeimg{
+    background-image: url("../src/assets/Orange-Shade.png");
+   margin-right: 14rem;
+    margin-bottom: 3rem;
+} 
+.newProduct{
+width: 689px;
+height: 151px;
+top: 860px;
+left: 83px;
+
+}

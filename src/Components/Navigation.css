@@ -1,0 +1,14 @@
+
+  @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200&family=Syne:wght@600&display=swap');
+
+.orangeimg{
+   margin-right: 1rem;
+}
+.shop{
+font-family: Poppins;
+font-size: 40px;
+font-weight: 275;
+line-height: 60px;
+letter-spacing: 0em;
+text-align: left;
+}

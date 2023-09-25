@@ -1,0 +1,73 @@
+@import url("https://fonts.googleapis.com/css2?family=Syne:wght@600&display=swap");
+
+.headingProduct {
+  width: 689px;
+  margin-top: 10px;
+  margin-bottom: 0px;
+  margin-left: 83px;
+  font-family: "Syne", sans-serif;
+  font-size: 90px;
+  line-height: 108px;
+  letter-spacing: 0em;
+  text-align: left;
+}
+.lineimg {
+  margin-left: 67px;
+
+}
+.cards{
+width:1100px;
+height: 322px;
+top: 998px;
+left: 346px;
+}
+.Apparel{
+    
+font-family: Work Sans;
+font-size: 18px;
+font-weight: 400;
+line-height: 21px;
+letter-spacing: 0em;
+text-align: left;
+
+}
+.Accessories{
+font-family: Syne;
+font-size: 26px;
+font-weight: 600;
+line-height: 31px;
+letter-spacing: 0em;
+text-align: left;
+
+}
+.BestSellers{
+    font-family: Work Sans;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 21px;
+    letter-spacing: 0em;
+    text-align: left;
+    
+}
+.off{
+font-family: Work Sans;
+font-size: 18px;
+font-weight: 400;
+line-height: 21px;
+letter-spacing: 0em;
+text-align: left;
+
+}
+.grid{
+    max-width: 130rem;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
+    gap: 2.2rem;
+
+}
+.productImage{
+    max-width: 100px;
+}
+.imgmain{
+    background-image: url('src/assets/18591063.png');
+}
